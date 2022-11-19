@@ -10,4 +10,4 @@ model = DecisionTreeClassifier()
 test = model.fit(x_train,y_train)
 x_new = np.array([[6.0 , 3.1 , 4.6 , 2.0]])
 print(test.predict(x_new))#predict result
-print((test.score(x_test,y_test))*100,end=" %")
+print("score: " +str((test.score(x_test,y_test))*100),end=" %")
