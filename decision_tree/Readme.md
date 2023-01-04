@@ -12,6 +12,7 @@ Predicted results Heart Disease
 |8|5|2|2|7|
 
 
+
 Data training
 ![](Aspose.Words.4259f617-7381-4937-bedb-0660c59efd16.001.png)![](Aspose.Words.4259f617-7381-4937-bedb-0660c59efd16.002.png)
 
